@@ -1,0 +1,40 @@
+body {background-color:#ffdead;}
+
+.container {
+    position: relative;
+  }
+
+  #nombre{
+      margin-left: 45px;
+  }
+  img {
+    border: 5px black solid;
+    border-style:outset;
+    width: 200px;
+    float:right;
+    margin: 20px;
+  }
+  nav {
+    background-color:#778899;
+    border: 5px black solid;
+    margin: 20px;
+    position: absolute;
+    left: 0px;
+    width: 250px;
+    height: 800px;
+  }
+  section {
+    text-align: left;
+    margin-left: 300px;
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color:beige;
+    width: 100%;
+  }
+  body {
+    margin-bottom: 120px;
+  }
